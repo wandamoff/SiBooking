@@ -3,7 +3,7 @@
 ##  Tujuan Program
 Aplikasi ini dikembangkan sebagai bagian dari Ujian Akhir Semester mata kuliah **Pemrograman Berorientasi Objek**. Tujuannya adalah untuk membangun aplikasi yang sesuai dengan proposal yang telah diajukan, mencakup alur pengguna, desain antarmuka, dan implementasi fitur inti.
 
-##  Daftar Fitur / Endpoints Utama
+##  Daftar Fitur / Endpoints Utama 
 
 -  **Autentikasi Pengguna**
   - `/register`: Halaman pendaftaran akun baru.
