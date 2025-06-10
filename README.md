@@ -3,8 +3,6 @@
 ## 📌 Tujuan Program
 Aplikasi ini dikembangkan sebagai bagian dari Ujian Akhir Semester mata kuliah **Pemrograman Web**. Tujuannya adalah untuk membangun aplikasi web interaktif yang sesuai dengan proposal yang telah diajukan, mencakup alur pengguna, desain antarmuka, dan implementasi fitur inti.
 
----
-
 ## 🧩 Daftar Fitur / Endpoints Utama
 
 - 🔐 **Autentikasi Pengguna**
@@ -20,7 +18,6 @@ Aplikasi ini dikembangkan sebagai bagian dari Ujian Akhir Semester mata kuliah *
   - `/pembatalan`: Mengelola pembatalan reservasi.
   - `/checkin`: Konfirmasi kehadiran atau validasi booking.
 
----
 
 ## 👥 Anggota Kelompok
 
@@ -29,11 +26,9 @@ Aplikasi ini dikembangkan sebagai bagian dari Ujian Akhir Semester mata kuliah *
 | Miftahun Nikmah        | 24050974026   |
 | Early Dwika Prayitno   | 24050974027   |
 
----
 
 ## 🔗 Alamat Website
 
----
 
 ## 📁 Struktur Folder 
 
