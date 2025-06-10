@@ -1,7 +1,7 @@
 #  Aplikasi - SiBooking 
 
 ##  Tujuan Program
-Aplikasi ini dikembangkan sebagai bagian dari Ujian Akhir Semester mata kuliah **Pemrograman Berorientasi Objek**. Tujuannya adalah untuk membangun aplikasi web interaktif yang sesuai dengan proposal yang telah diajukan, mencakup alur pengguna, desain antarmuka, dan implementasi fitur inti.
+Aplikasi ini dikembangkan sebagai bagian dari Ujian Akhir Semester mata kuliah **Pemrograman Berorientasi Objek**. Tujuannya adalah untuk membangun aplikasi yang sesuai dengan proposal yang telah diajukan, mencakup alur pengguna, desain antarmuka, dan implementasi fitur inti.
 
 ##  Daftar Fitur / Endpoints Utama
 
