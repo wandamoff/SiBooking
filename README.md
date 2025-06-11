@@ -1,5 +1,9 @@
 #  Aplikasi - SiBooking 
 
+## File yang diunduh dan diimport ke lib dalam projek SiBooking
+1. mysql-connector-j-9.3.0 (http://dev.mysql.com/doc/connector-j/en/)
+2. jna-5.5.0 (https://github.com/java-native-access/jna)
+
 ##  Tujuan Program
 Aplikasi ini dikembangkan sebagai bagian dari Ujian Akhir Semester mata kuliah **Pemrograman Berorientasi Objek**. Tujuannya adalah untuk membangun aplikasi yang sesuai dengan proposal yang telah diajukan, mencakup alur pengguna, desain antarmuka, dan implementasi fitur inti.
 
